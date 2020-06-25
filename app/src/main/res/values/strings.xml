@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="welcome_to_platzi">Welcome to Platzi</string>
+    <string name="sign_out_button">Sign Out</string>
+
+    <!--requisitos de facebook-->
+    <string name="facebook_app_id">556189441728951</string>
+    <string name="fb_login_protocol_scheme">fb556189441728951</string>
+
+</resources>
